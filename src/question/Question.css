@@ -12,8 +12,15 @@
 .que-wrap {
     width: 330px;
     height: 180px;
-    background-color: aliceblue;
-    margin-top: 40px;
+    /* background-color: aliceblue; */
+    margin-top: 57px;
+    white-space: pre-wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
 }
 
 .answer-wrap {

@@ -2,7 +2,7 @@ import './AnswerButton.css'
 
 function AnswerButton(props) {
     return (
-        <button className='answerButton'>{props.ans}</button>
+        <button onClick={props.onClick} className='answerButton' id={props.id}>{props.ans}</button>
     )
 }
 

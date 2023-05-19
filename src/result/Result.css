@@ -1,0 +1,29 @@
+.bg-img-result {
+    width: 100%;
+    max-width: 390px;
+    height: 100%;
+    background-image: url('https://github.com/wwan13/squid-psychology-web/assets/64270501/751fc2e0-eb40-4b81-b5ba-58ec0caa4429');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.result-image {
+    width: 330px;
+    height: 200px;
+    /* background-color: antiquewhite; */
+    margin-top: 60px;
+}
+
+.result-text {
+    width: 330px;
+    height: 200px;
+    /* background-color: aliceblue; */
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: pre-wrap;
+    font-size: 18px;
+}
