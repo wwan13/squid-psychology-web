@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/squid-psycology-web/static/css/main.d9ffa63a.css",
+    "main.js": "/squid-psycology-web/static/js/main.398273ec.js",
+    "static/js/787.ec68b843.chunk.js": "/squid-psycology-web/static/js/787.ec68b843.chunk.js",
+    "index.html": "/squid-psycology-web/index.html",
+    "main.d9ffa63a.css.map": "/squid-psycology-web/static/css/main.d9ffa63a.css.map",
+    "main.398273ec.js.map": "/squid-psycology-web/static/js/main.398273ec.js.map",
+    "787.ec68b843.chunk.js.map": "/squid-psycology-web/static/js/787.ec68b843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ffa63a.css",
+    "static/js/main.398273ec.js"
+  ]
+}
