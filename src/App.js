@@ -7,7 +7,7 @@ import Result from './result/Result';
 function App() {
   return (
     <div className='web-wrap'>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path='/' element={<Main />} />
           <Route path='/que/:que_id' element={<Question />} />
